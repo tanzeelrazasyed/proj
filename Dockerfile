@@ -1,4 +1,4 @@
-#
+#This is v1.1
 # Each instruction in this file generates a new layer that gets pushed to your local image cache
 #
 #
